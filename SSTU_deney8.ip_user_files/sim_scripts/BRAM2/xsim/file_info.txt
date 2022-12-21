@@ -1,0 +1,2 @@
+BRAM2.v,verilog,xil_defaultlib,../../../../SSTU_deney8.gen/sources_1/ip/BRAM2/sim/BRAM2.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

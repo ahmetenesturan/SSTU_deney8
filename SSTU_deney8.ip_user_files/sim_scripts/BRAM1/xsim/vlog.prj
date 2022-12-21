@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../SSTU_deney8.gen/sources_1/ip/BRAM1/sim/BRAM1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

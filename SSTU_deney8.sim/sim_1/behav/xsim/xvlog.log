@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ahmetenesturan/Projects/SSTU/SSTU_deney8/SSTU_deney8.gen/sources_1/ip/BRAM2/sim/BRAM2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BRAM2
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ahmetenesturan/Projects/SSTU/SSTU_deney8/SSTU_deney8.gen/sources_1/ip/BRAM1/sim/BRAM1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BRAM1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ahmetenesturan/Projects/SSTU/SSTU_deney8/SSTU_deney8.srcs/sources_1/new/TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ahmetenesturan/Projects/SSTU/SSTU_deney8/SSTU_deney8.srcs/sources_1/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MAC_Normalize
+INFO: [VRFC 10-311] analyzing module CONV
+INFO: [VRFC 10-311] analyzing module CONV128
+INFO: [VRFC 10-311] analyzing module control_input
+INFO: [VRFC 10-311] analyzing module control_output
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ahmetenesturan/Projects/SSTU/SSTU_deney8/SSTU_deney8.srcs/sources_1/new/old_modules.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MULTB
+INFO: [VRFC 10-311] analyzing module ADDRB
+INFO: [VRFC 10-311] analyzing module MAC
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ahmetenesturan/Projects/SSTU/SSTU_deney8/SSTU_deney8.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
